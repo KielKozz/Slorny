@@ -1,1 +1,1 @@
-worker: node Slorny.js
+worker: node slorny.js
