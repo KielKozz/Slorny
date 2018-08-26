@@ -1,0 +1,15 @@
+{
+  "name": "Slorny",
+  "description": "Slorny",
+  "version": "0.0.0",
+  "main": "slorny.js",
+  "script": {
+    "start": "bode slorny.js"
+  },
+    "dependencies": {
+      "discord.js": "11.1.0",
+      "request": "2.18.0"
+   }
+}
+    
+    
